@@ -3,6 +3,13 @@
 html, body {
   height: 100%;
   min-height: 100%;
+  width: 700px;
+  margin:auto;
+  font-size: 22px;
+  font-family: "Halvetica Neue";
+  background:#00b3e6;
+  padding: 30px;
+
 }
 
 body {
@@ -11,6 +18,7 @@ body {
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
+  background-color: white;
 }
 
 .wrapper {
@@ -26,7 +34,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: rgb(180, 25, 25);
 }
 
 h1 {
@@ -56,7 +64,7 @@ p {
 }
 
 a {
-  color: black;
+  color:red;
   text-decoration: none;
 }
 
